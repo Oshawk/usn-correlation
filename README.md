@@ -1,5 +1,7 @@
 # USN Correlation
 
+An Autopsy plugin for `$UsnJrnl` analysis. 
+
 ## Installation
 
 - Download the latest `.nbm` file from [releases](https://github.com/Oshawk/usn-correlation/releases).
