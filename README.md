@@ -1,6 +1,6 @@
 # USN Correlation
 
-An Autopsy plugin for `$UsnJrnl` analysis. 
+Uses `$UsnJrnl` to create file history timelines and recover information about deleted files.
 
 ## Installation
 
