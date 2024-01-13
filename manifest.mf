@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: uk.oshawk.UsnCorrelation
+OpenIDE-Module-Localizing-Bundle: uk/oshawk/UsnCorrelation/Bundle.properties
+OpenIDE-Module-Specification-Version: 0.0.1
+
